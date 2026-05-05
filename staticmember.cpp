@@ -35,3 +35,11 @@ void Mahasiswa :: printAll() {
     cout << endl;
 };
 
+int main() {
+    //membuat object dan memberi nilai
+    Mahasisma mhs1("Lia Kurnia");
+    Mahasiswa mhs2("Fawwaz Sratus");
+    Mahasiswa mhs3("Andi Kurniawan");
+    Mahasiswa mhs4("Bagas Satya Widhi");
+
+}
